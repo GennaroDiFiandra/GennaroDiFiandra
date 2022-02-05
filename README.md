@@ -6,7 +6,7 @@ Al momento sviluppo prodotti digitali con HTML, CSS, Javascript e WordPress (PHP
 
 Sono interessato a collaborazioni per lo sviluppo sia di website e webpage statici (HTML, CSS e Javascript) che di temi e plugin per WordPress. Puoi contattarmi tramite [LinkedIn](https://www.linkedin.com/in/gennarodifiandra).
 
-## Tecnologia e Tool
+## Tecnologie e Tool
 
 Oltre alle tecnologie su citate, uso anche zsh, Visual Studio Code, GIT e GitHub.
 
