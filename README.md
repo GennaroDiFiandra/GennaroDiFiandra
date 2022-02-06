@@ -4,7 +4,7 @@ Al momento sviluppo prodotti digitali con HTML, CSS, Javascript e WordPress (PHP
 
 ## Collaborazioni
 
-Sono interessato a collaborazioni per lo sviluppo sia di website e webpage statici (HTML, CSS e Javascript) che di temi e plugin per WordPress. Puoi contattarmi, puoi inviarmi un messaggio tramite [LinkedIn](https://www.linkedin.com/in/gennarodifiandra).
+Sono interessato a collaborazioni per lo sviluppo sia di website e webpage statici (HTML, CSS e Javascript) che di temi e plugin per WordPress. Puoi contattarmi, puoi inviarmi un messaggio tramite [LinkedIn](https://it.linkedin.com/in/gennarodifiandra).
 
 ## Portfolio
 
