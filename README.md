@@ -12,7 +12,7 @@ Per farti un'idea di cosa so fare, puoi visionare i miei [repository →](https:
 
 ## Tecnologie e Tool
 
-Oltre alle tecnologie su citate, uso anche Markdown, npm scripts, zsh, Visual Studio Code, GIT e GitHub.
+Oltre alle tecnologie su citate, uso anche Markdown, npm scripts, zsh, WP-CLI, Visual Studio Code, GIT e GitHub.
 
 Con WordPress, per lo sviluppo, utilizzo gli addon CPT UI e Advanced Custom Fields; per i form preferisco Fluent Forms; sono pratico con i builder Oxygen ed Elementor.
 
