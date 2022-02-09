@@ -1,4 +1,4 @@
-# Ciao 👋, mi chiamo Gennaro Di Fiandra e <br>sono un Web Developer freelance.
+# Ciao 👋, mi chiamo Gennaro Di Fiandra e  sono un Web Developer freelance.
 
 Al momento sviluppo prodotti digitali con HTML, CSS, Javascript e WordPress (PHP) e sto studiando React.
 
