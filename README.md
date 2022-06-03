@@ -1,6 +1,6 @@
-# Ciao 👋, mi chiamo Gennaro Di Fiandra e <br>sono un Web Developer freelance.
+# Ciao 👋, mi chiamo Gennaro Di Fiandra e <br>sono un Web Developer.
 
-Al momento sviluppo prodotti digitali con HTML, CSS, Javascript e WordPress (PHP) e sto studiando React.
+Al momento sviluppo prodotti digitali con HTML, CSS, Javascript e WordPress (PHP).
 
 ## Collaborazioni
 
@@ -17,4 +17,3 @@ Oltre alle tecnologie su citate, uso anche Markdown, npm scripts, zsh, WP-CLI, V
 Con WordPress, per lo sviluppo, utilizzo gli addon CPT UI e Advanced Custom Fields; per i form preferisco Fluent Forms; sono pratico con i builder Oxygen ed Elementor.
 
 Inoltre, conosco i principi della UX e UI design e del funzionamento dei motori di ricerca (aka Google).
-
