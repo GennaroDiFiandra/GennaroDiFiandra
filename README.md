@@ -1,6 +1,6 @@
-# Ciao 👋, mi chiamo Gennaro Di Fiandra e <br>sono un Web Developer.
+# Ciao 👋, mi chiamo Gennaro Di Fiandra e <br>sono un WordPress Developer.
 
-Al momento sviluppo prodotti digitali con HTML, CSS, Javascript e WordPress (PHP).
+Sono uno Sviluppatore WordPress e WooCommerce. Sviluppo su tutto lo stack: HTML, CSS, Javascript, PHP, AJAX con Gutenberg, ACF, Gravity Form, Devilbox (Docker), zSH, WP-CLI, npm, composer, PHPStorm, GIT, GitLab, Chrome.
 
 ## Collaborazioni
 
@@ -12,8 +12,6 @@ Per farti un'idea di cosa so fare, puoi visionare i miei [repository →](https:
 
 ## Tecnologie e Tool
 
-Oltre alle tecnologie su citate, uso anche Markdown, npm scripts, zsh, WP-CLI, Visual Studio Code, GIT e GitHub.
+Oltre alle tecnologie su citate, uso anche Markdown, Visual Studio Code, GitHub, Photoshop, Affinity Designer, Camtasia Studio.
 
-Con WordPress, per lo sviluppo, utilizzo gli addon CPT UI e Advanced Custom Fields; per i form preferisco Fluent Forms; sono pratico con i builder Oxygen ed Elementor.
-
-Inoltre, conosco i principi della UX e UI design e del funzionamento dei motori di ricerca (aka Google).
+Inoltre, conosco i principi della UX e UI design e della SEO.
