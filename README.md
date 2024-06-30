@@ -12,7 +12,7 @@ Ho inoltre una conoscenza di React (stack React 18, React Router 6, Zustand, Typ
 
 So usare in maniera avanzata Camtasia Studio e basica Figma, Affinity Designer, Photoshop, Adobe XD.
 
-Nella prima fase del periodo da freelance ho anche studiato marketing (brand positioning, copywriting e advertising).
+Nella periodo da freelance ho anche studiato marketing (brand positioning, copywriting e advertising).
 
 Nel lavoro e non, uso la suite di Google (Search Engine, YouTube, Maps, Drive, Docs, Sheets, Slides Calendar, Gmail), Notion e ChatGPT.
 
