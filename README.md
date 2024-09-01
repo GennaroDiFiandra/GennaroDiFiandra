@@ -2,7 +2,7 @@
 
 I am a WordPress Developer with 13 years of experience, proficient in HTML, CSS (including SCSS and Bootstrap), JavaScript, PHP, and SQL.
 
-I have expertise in developing themes, plugins, and blocks (using both React and PHP). My experience extends to core WordPress APIs and WooCommerce, integrating custom fields libraries, and working with Gutenberg and other popular page builders.
+I have expertise in developing themes, plugins, and blocks (using both React and PHP). My experience extends to WordPress APIs and WooCommerce, integrating custom fields libraries, and working with Gutenberg and other popular page builders.
 
 My workflow tools include Devilbox (Docker), ZSH, WP-CLI, NPM, Gulp, Composer, Visual Studio Code, Nano, GIT, GitHub, Chrome, Postman, and Markdown. Additionally, I am proficient in using tools like Figma, Affinity Designer, Photoshop, and Adobe XD to extract CSS values from existing designs.
 
