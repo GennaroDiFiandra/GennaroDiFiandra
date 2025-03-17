@@ -2,11 +2,11 @@
 
 I am a Web Developer with 14 years of full-remote experience (11 as a freelancer and 3 as an employee).
 
-➡️ I started in 2011 by studying HTML, CSS, and JavaScript, developing static websites.
-➡️ In 2012, I began studying WordPress, creating corporate and eCommerce websites.
-➡️ Later, I studied PHP, developing themes and plugins for WordPress.
-➡️ I focused on WordPress and its related technologies for 13 years.
-➡️ In 2024, I started learning React while working on two company web apps.
+➡️ I started in 2011 by studying HTML, CSS, and JavaScript, developing static websites.<br>
+➡️ In 2012, I began studying WordPress, creating corporate and eCommerce websites.<br>
+➡️ Later, I studied PHP, developing themes and plugins for WordPress.<br>
+➡️ I focused on WordPress and its related technologies for 13 years.<br>
+➡️ In 2024, I started learning React while working on two company web apps.<br>
 
 In WordPress-based development, I have gained experience with HTML, CSS, SCSS, Bootstrap, JavaScript, and PHP. I have also studied relational database design and SQL but have not accumulated significant experience in this area.
 
