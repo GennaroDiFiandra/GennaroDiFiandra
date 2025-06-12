@@ -1,4 +1,4 @@
-# Hello 👋, my name is Gennaro Di Fiandra and <br>I am an Angular Apprentic and a WordPress + React Developer.
+# Hello 👋, my name is Gennaro Di Fiandra and <br>I am an Angular Apprentice and a WordPress + React Developer.
 
 I am a Web Developer with 14 years of full-remote experience (11 as a freelancer and 3 as an employee).
 
