@@ -10,7 +10,7 @@ I am a Web Developer with 14 years of full-remote experience (11 as a freelancer
 
 ➡️ I focused on WordPress and related technologies for 13 years.
 
-➡️ In 2024, I started studying React, working on two corporate web apps.
+➡️ In 2024, I started studying React, working on one corporate web app.
 
 ➡️ Currently, I am learning Angular.
 
