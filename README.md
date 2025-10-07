@@ -1,4 +1,4 @@
-# Hello 👋, my name is Gennaro Di Fiandra and <br>I am an Angular Apprentice and a WordPress + React Developer.
+# Hello 👋, my name is Gennaro Di Fiandra and <br>I am a Full-Stack WordPress + Front-End Developer.
 
 I am a Web Developer with 14 years of full-remote experience (11 as a freelancer and 3 as an employee).
 
@@ -12,7 +12,7 @@ I am a Web Developer with 14 years of full-remote experience (11 as a freelancer
 
 ➡️ In 2024, I started studying React, working on one corporate web app.
 
-➡️ Currently, I am learning Angular.
+➡️ Currently, I am working as a full-stack WordPress developer.
 
 ✳️ WordPress ✳️
 
@@ -30,7 +30,7 @@ During my years as a freelancer, I studied marketing (brand positioning, copywri
 
 ✳️ Tools ✳️
 
-My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, Devilbox (Docker), GIT, GitHub, Visual Studio Code, Chrome, Bruno and Markdown.
+My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, Lando (Docker), GIT, GitHub, Visual Studio Code, Chrome, Bruno and Markdown.
 
 Additionally, I am proficient in using tools such as Figma, Affinity Designer, Photoshop, and Adobe XD to extract CSS values, and I am familiar with the Google suite (Search, Docs, Sheets, Slides, Calendar, Gmail), ChatGPT, Gemini, Notion, ClickUp, Wrike, and Camtasia Studio.
 
