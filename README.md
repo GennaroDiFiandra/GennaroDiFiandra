@@ -17,10 +17,10 @@ I am a Web Developer with 14 years of experience (11 as a freelancer and 3 as an
 ➡️ And I am building an ecommerce for my family learning new skills
 
 
-In WordPress-based development
-➡️ I have gained experience with HTML, CSS, SCSS, Bootstrap, Javascript PHP and WordPress. 
-➡️ I have also studied relational database design and SQL, but I have not accumulated experience in these areas.
-➡️ I have also gained experience with WooCommerce, LearnDash, Gravity Forms, Advanced Custom Fields, Gutenberg ed Elementor, both setup and development.
+In WordPress-based development<br>
+➡️ I have gained experience with HTML, CSS, SCSS, Bootstrap, Javascript PHP and WordPress.<br>
+➡️ I have also studied relational database design and SQL, but I have not accumulated experience in these areas.<br>
+➡️ I have also gained experience with WooCommerce, LearnDash, Gravity Forms, Advanced Custom Fields, Gutenberg ed Elementor, both setup and development.<br>
 ➡️ I have linked WordPress with external platforms via APIs.
 
 
@@ -30,8 +30,8 @@ In WordPress-based development
 ➡️ Sistemistica: currently, I am learning to build an infrastructure with Cloudflare (dns, security, performance) + Coolify, Traefik, Docker (lemp setup, reverse proxy) + Amazon SES (transaction emails).
 
 
-➡️ My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, DDEV, GIT, Visual Studio Code, Chrome, Bruno, Markdown, ChatGPT and Notion.
-➡️ Additionally, I am proficient in using tools such as Figma, Affinity Designer, Photoshop, and Adobe XD to extract CSS values.
+➡️ My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, DDEV, GIT, Visual Studio Code, Chrome, Bruno, Markdown, ChatGPT and Notion.<br>
+➡️ Additionally, I am proficient in using tools such as Figma, Affinity Designer, Photoshop, and Adobe XD to extract CSS values.<br>
 ➡️ I am familiar with the Google suite (Search, Docs, Sheets, Slides, Calendar, Gmail).
 
 
