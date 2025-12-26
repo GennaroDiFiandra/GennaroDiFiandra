@@ -27,7 +27,7 @@ In WordPress-based development<br>
 ➡️ Regarding React, I have currently studied and gained experience with the Typescript, React, React Router, and Tailwind stack.
 
 
-➡️ Sistemistica: currently, I am learning to build an infrastructure with Cloudflare (dns, security, performance) + Coolify, Traefik, Docker (lemp setup, reverse proxy) + Amazon SES (transaction emails).
+➡️ Currently, I am learning to build an infrastructure with Cloudflare (dns, security, performance) + Coolify, Traefik, Docker (lemp setup, reverse proxy) + Amazon SES (transaction emails).
 
 
 ➡️ My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, DDEV, GIT, Visual Studio Code, Chrome, Bruno, Markdown, ChatGPT and Notion.<br>
