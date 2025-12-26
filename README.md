@@ -1,39 +1,41 @@
 # Hello 👋, my name is Gennaro Di Fiandra and <br>I am a Full-Stack WordPress Developer.
 
-I am a Web Developer with 14 years of full-remote experience (11 as a freelancer and 3 as an employee).
+I am a Web Developer with 14 years of experience (11 as a freelancer and 3 as an employee always full-remote).
 
-➡️ I started in 2011 studying HTML, CSS, and Javascript, developing static websites.
+➡️ I started in 2011 studying HTML, CSS, and Javascript, developing static websites
 
-➡️ In 2012, I began studying WordPress, creating corporate websites and ecommerce platforms.
+➡️ In 2012, I began studying WordPress, creating corporate websites and ecommerce
 
-➡️ Subsequently, PHP, developing themes and plugins for WordPress.
+➡️ Subsequently, PHP, developing themes and plugins for WordPress
 
-➡️ I focused on WordPress and related technologies for 13 years.
+➡️ I focused on WordPress and related technologies for 13 years
 
-➡️ In 2024, I started studying React, working on one corporate web app.
+➡️ In 2024, I started studying React, working on one corporate web app
 
-➡️ Currently, I am working as a full-stack WordPress developer.
+➡️ Currently, I am working as a full-stack WordPress developer
 
-✳️ WordPress ✳️
+➡️ And I am building an ecommerce for my family learning new skills
 
-In WordPress-based development, I have gained experience with HTML, CSS, SCSS, Bootstrap, Javascript, and PHP. I have also studied relational database design and SQL, but I have not accumulated significant experience in these areas.
 
-Regarding WordPress specifically, I have developed themes and plugins, gaining experience with WordPress and WooCommerce APIs, connecting WordPress with external platforms via APIs, custom field libraries, Gutenberg, and popular page builders.
+In WordPress-based development
+➡️ I have gained experience with HTML, CSS, SCSS, Bootstrap, Javascript PHP and WordPress. 
+➡️ I have also studied relational database design and SQL, but I have not accumulated experience in these areas.
+➡️ I have also gained experience with WooCommerce, LearnDash, Gravity Forms, Advanced Custom Fields, Gutenberg ed Elementor, both setup and development.
+➡️ I have linked WordPress with external platforms via APIs.
 
-✳️ React ✳️
 
-Regarding React, I have currently studied and gained experience with the Typescript, React, React Router, and Tailwind stack.
+➡️ Regarding React, I have currently studied and gained experience with the Typescript, React, React Router, and Tailwind stack.
 
-✳️ Marketing ✳️
 
-During my years as a freelancer, I studied marketing (brand positioning, copywriting, advertising, SEO), UX, and UI design, applying this knowledge to my business.
+➡️ Sistemistica: currently, I am learning to build an infrastructure with Cloudflare (dns, security, performance) + Coolify, Traefik, Docker (lemp setup, reverse proxy) + Amazon SES (transaction emails).
 
-✳️ Tools ✳️
 
-My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, Lando (Docker), GIT, GitHub, Visual Studio Code, Chrome, Bruno and Markdown.
+➡️ My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, DDEV, GIT, Visual Studio Code, Chrome, Bruno, Markdown, ChatGPT and Notion.
+➡️ Additionally, I am proficient in using tools such as Figma, Affinity Designer, Photoshop, and Adobe XD to extract CSS values.
+➡️ I am familiar with the Google suite (Search, Docs, Sheets, Slides, Calendar, Gmail).
 
-Additionally, I am proficient in using tools such as Figma, Affinity Designer, Photoshop, and Adobe XD to extract CSS values, and I am familiar with the Google suite (Search, Docs, Sheets, Slides, Calendar, Gmail), ChatGPT, Gemini, Notion, ClickUp, Wrike, and Camtasia Studio.
 
-✳️ Languages ✳️
+➡️ During my years as a freelancer, I studied marketing (brand positioning, copywriting, advertising, SEO), UX, and UI design, applying this knowledge to my business.
 
-My English proficiency is intermediate in reading and writing, while I am less proficient in direct conversation.
+
+➡️ My English proficiency is intermediate in reading and writing, while I am less proficient in direct conversation.
