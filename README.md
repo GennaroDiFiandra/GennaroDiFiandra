@@ -1,4 +1,4 @@
-# Hello 👋, my name is Gennaro Di Fiandra and <br>I am a Full-Stack WordPress + Front-End Developer.
+# Hello 👋, my name is Gennaro Di Fiandra and <br>I am a Full-Stack WordPress Developer.
 
 I am a Web Developer with 14 years of full-remote experience (11 as a freelancer and 3 as an employee).
 
