@@ -1,6 +1,6 @@
 # Hello 👋, my name is Gennaro Di Fiandra and <br>I am a Full-Stack WordPress Developer.
 
-I am a Web Developer with 14 years of experience (11 as a freelancer and 3 as an employee always full-remote).
+I am a Web Developer with 15 years of experience (11 as a freelancer and 4 as an employee always full-remote).
 
 ➡️ I started in 2011 studying HTML, CSS, and Javascript, developing static websites
 
@@ -24,13 +24,15 @@ In WordPress-based development<br>
 ➡️ I have linked WordPress with external platforms via APIs.
 
 
-➡️ Regarding React, I have currently studied and gained experience with the Typescript, React, React Router, and Tailwind stack.
+In React-based development<br>
+➡️ I have currently studied and gained experience with the Typescript, React, React Router, and Tailwind stack.
 
 
+About Server Configuration<br>
 ➡️ Currently, I am learning to build an infrastructure with Cloudflare (dns, security, performance) + Coolify, Traefik, Docker (lemp setup, reverse proxy) + Amazon SES (transaction emails).
 
 
-➡️ My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, DDEV, GIT, Visual Studio Code, Chrome, Bruno, Markdown, ChatGPT and Notion.<br>
+➡️ My web developer workflow includes ZSH, Node, NPM, Gulp, Vite, Composer, WP-CLI, DDEV, GIT, Visual Studio Code, Chrome, Bruno, Markdown, Gemini, ChatGPT and Notion.<br>
 ➡️ Additionally, I am proficient in using tools such as Figma, Affinity Designer, Photoshop, and Adobe XD to extract CSS values.<br>
 ➡️ I am familiar with the Google suite (Search, Docs, Sheets, Slides, Calendar, Gmail).
 
